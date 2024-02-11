@@ -24,7 +24,7 @@ A healthcare management system is essential for efficiently organizing and manag
 
 # ER Diagram of the tables which are used in this data
 
-<div align="center"><img src="Hospital_db_final_ER_diagram.png" alt="Image"><</div> 
+<div align="center"><img src="Hospital_db_final_ER_diagram.png" alt="Image"></div> 
 
 # Summary   
 In summary, the SQL script defines the database schema for a healthcare management system, facilitating efficient management of patient care and administrative processes within a healthcare facility.
